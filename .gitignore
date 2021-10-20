@@ -1,0 +1,22 @@
+# Binaries
+bin/*.exe
+bin/*.dll
+
+# IDE
+.idea
+.vs
+
+# Objects
+*.a
+*.o
+
+# Python
+*.pyc
+
+# Private
+tools/private
+
+# TBD.
+CMakeSettings.json
+externals
+assets/analysis/freebsd
